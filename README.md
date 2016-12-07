@@ -16,7 +16,7 @@ Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/gdgandroidbo/SJ_II_Views.git
+>     $ git clone https://github.com/gdgandroidbo/StudyJam_II_Views.git
 
 Dentro de Android Studio:
 
