@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">SJ_II_Views_01</string>
+    <string name="app_name">Demo Vistas</string>
+
+    <string name="main.tv.titulo">Registro</string>
+    <string name="main.tv.nombre">Alberto Andres</string>
+    <string name="main.tv.apellido">Mollinedo</string>
+    <string name="main.tv.actividad">Estudiante</string>
+    <string name="main.tv.fecha.nac">16 de Agosto 1991</string>
+    <string name="main.tv.edad">25 años</string>
+    <string name="main.tv.telefono">2-787675</string>
+    <string name="main.tv.celular">7654321</string>
+    <string name="main.tv.direccion">Obrajes, Calle 20, Nro 156</string>
+    <string name="main.tv.skill.uno">Android Dev</string>
+    <string name="main.tv.skill.dos">iOS Dev</string>
+    <string name="main.tv.resumen">En este parrafo podemos ver que estamos restrigiendo a 5 lineas maximo y si el espacio se termina me muestra puntos suspensivos (...) todo eso se puede modificar a lo que necesiten.</string>
+    <string name="main.tv.gestion">2016</string>
+
 </resources>

@@ -3,4 +3,40 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="main.background">#d261ff</color>
+
+    <color name="main.ll.bg.datos">#0011ff</color>
+    <color name="main.ll.bg.telefonos">#ff010e</color>
+    <color name="main.ll.bg.skills">#04ff00</color>
+    <color name="main.ll.bg.datos.gral">#8102b4</color>
+
+    <color name="main.tv.titulo">#4784ff</color>
+    <color name="main.tv.nombre">#29dfc1</color>
+    <color name="main.tv.apellido">#27292d</color>
+    <color name="main.tv.fecha">#d23f0a</color>
+    <color name="main.tv.edad">#ec0ce8</color>
+    <color name="main.tv.telefono">#131416</color>
+    <color name="main.tv.celular">#ed0611</color>
+    <color name="main.tv.direccion">#3b5ea6</color>
+    <color name="main.tv.actividad">#12f1de</color>
+    <color name="main.tv.skill.uno">#f1f3f7</color>
+    <color name="main.tv.skill.dos">#0e1013</color>
+    <color name="main.tv.gestion">#f7f300</color>
+
+    <color name="main.background.tv.titulo">#ffffff</color>
+    <color name="main.background.tv.nombre">#05630e</color>
+    <color name="main.background.tv.apellido">#e3e6ec</color>
+    <color name="main.background.tv.fecha">#e1da0f</color>
+    <color name="main.background.tv.edad">#2c2e33</color>
+    <color name="main.background.tv.telefono">#d5dae6</color>
+    <color name="main.background.tv.celular">#f9f9f9</color>
+    <color name="main.background.tv.direccion">#e6ce19</color>
+    <color name="main.background.tv.actividad">#044d42</color>
+    <color name="main.background.tv.skill.uno">#1c2028</color>
+    <color name="main.background.tv.skill.dos">#ffffff</color>
+    <color name="main.background.tv.gestion">#660068</color>
+
+
+
 </resources>
