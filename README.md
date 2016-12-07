@@ -28,16 +28,18 @@ Dentro de Android Studio:
 Capturas y corrida
 ---------
 
-<div align="center">
-    <table border="0">
-        <tr>
-            <td>
-                <img src="/img/screenshot.jpg" width="200">
-            </td>
-            <td>
-                <img src="/img/corrida.gif" width="200">
-            </td>
-        </tr>
-    </table>
+<div>
+    <center>
+        <table border="0">
+            <tr>
+                <td>
+                    <img src="/img/screenshot.jpg" width="200">
+                </td>
+                <td>
+                    <img src="/img/corrida.gif" width="200">
+                </td>
+            </tr>
+        </table>
+    </center>
 </div>
 
