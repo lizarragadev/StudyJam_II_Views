@@ -28,7 +28,7 @@ Dentro de Android Studio:
 Capturas y corrida
 ---------
 
-<div>
+<div align="center">
     <center>
         <table border="0">
             <tr>
